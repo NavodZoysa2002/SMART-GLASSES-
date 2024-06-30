@@ -1,4 +1,4 @@
-# SMART-GLASSES-
+# SMART-GLASSES With arduino 
 This  presents a details outline of the proposed research project on  developing a smart glass using Arduino Uno.
 
 From the past, disabled people had to face various challenges in life. They have used 
